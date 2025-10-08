@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 ! My name is  Sarath, I am currently learning data scientist</h2>
+<h2 align="left">Hi 👋 ! My name is  Sarath, I am currently   Working at Cognizant t</h2>
 
 ###
 
